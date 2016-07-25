@@ -1,0 +1,23 @@
+1. Cai dat git
+https://tortoisegit.org/
+
+2.
+Dang ky tai khoan tren GitHub
+https://github.com/
+
+3.Dang ky va cai dat Github desktop
+https://windows.github.com/
+*Link huong dan cho muc 2 va 3.
+
+4.Cach tao 1 kho(repository) tren GitHub
+thachpham.com/tools/cach-tao-repository-cho-git.html
+
+*Note: De co the clone project tu GitHub ve may tinh(Local repository) thi phai lam nhu sau :
+mo cmd len
+run command : 
+*1. Clone git repository using http:
+git clone [link http]
+*Clone using ssh 
+git clone [link ssh]
+
+link : http://blog.sudoask.com/why-you-failed-to-clone-repository-in-github/
